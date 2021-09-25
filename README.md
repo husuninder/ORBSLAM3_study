@@ -2,7 +2,7 @@
 
 * An English only ver. is not available yet. 
 
-[Click](https://docs.google.com/presentation/d/1dy0OeC8hPvASXZEoDQFoEwP44VvPZlOu/edit?usp=sharing&ouid=118275914938046484469&rtpof=true&sd=true) to download PPT from Google Drive. 
+[Click](https://docs.google.com/presentation/d/1dy0OeC8hPvASXZEoDQFoEwP44VvPZlOu/edit?usp=sharing&ouid=118275914938046484469&rtpof=true&sd=true) to download PPT from Google Drive. Best viewed in Presentation Mode with Microsoft PowerPoint 2019 or above. (I use the Morph function to show a progressive translation of focus of the code.)
 
 ![ex1](imgs/example01.png)
 
